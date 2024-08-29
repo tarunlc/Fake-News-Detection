@@ -1,6 +1,6 @@
 # Fake-News-Detection
 
-he primary objective of this code is to build a model that can classify news articles as either "fake" or "real" based on the text content.
+The primary objective of this code is to build a model that can classify news articles as either "fake" or "real" based on the text content.
 
 What the Code Does:
 Data Loading:
